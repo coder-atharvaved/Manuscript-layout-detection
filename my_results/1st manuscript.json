@@ -1,0 +1,35 @@
+{
+  "image": "1st manuscript.jpg",
+  "width": 293,
+  "height": 220,
+  "page_box": [
+    0,
+    0,
+    293,
+    220
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "label": "main_text",
+      "bbox": [
+        22,
+        12,
+        282,
+        145
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": 2,
+      "label": "filler",
+      "bbox": [
+        240,
+        12,
+        281,
+        19
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

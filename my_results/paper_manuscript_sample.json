@@ -1,0 +1,57 @@
+{
+  "image": "paper_manuscript_sample.png",
+  "width": 2047,
+  "height": 774,
+  "page_box": [
+    0,
+    0,
+    2047,
+    774
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "label": "filler",
+      "bbox": [
+        590,
+        26,
+        1457,
+        54
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": 2,
+      "label": "main_text",
+      "bbox": [
+        24,
+        56,
+        1973,
+        723
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": 3,
+      "label": "filler",
+      "bbox": [
+        561,
+        725,
+        1516,
+        753
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": 4,
+      "label": "footer",
+      "bbox": [
+        1041,
+        759,
+        1053,
+        770
+      ],
+      "confidence": 0.74
+    }
+  ]
+}

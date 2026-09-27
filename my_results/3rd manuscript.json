@@ -1,0 +1,35 @@
+{
+  "image": "3rd manuscript.jpg",
+  "width": 474,
+  "height": 215,
+  "page_box": [
+    0,
+    0,
+    474,
+    215
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "label": "filler",
+      "bbox": [
+        32,
+        11,
+        445,
+        19
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": 2,
+      "label": "main_text",
+      "bbox": [
+        12,
+        21,
+        471,
+        205
+      ],
+      "confidence": 0.9
+    }
+  ]
+}
