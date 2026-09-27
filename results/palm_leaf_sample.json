@@ -1,0 +1,46 @@
+{
+  "image": "palm_leaf_sample.png",
+  "width": 2048,
+  "height": 834,
+  "page_box": [
+    122,
+    75,
+    1675,
+    629
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "label": "filler",
+      "bbox": [
+        578,
+        27,
+        1469,
+        56
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": 2,
+      "label": "main_text",
+      "bbox": [
+        122,
+        75,
+        1797,
+        704
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": 3,
+      "label": "filler",
+      "bbox": [
+        549,
+        783,
+        1497,
+        812
+      ],
+      "confidence": 0.88
+    }
+  ]
+}
